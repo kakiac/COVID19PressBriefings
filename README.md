@@ -1,5 +1,6 @@
+<p align = "centre">
 ![context](https://github.com/kakiac/COVID19PressBriefings/blob/master/COVID19-PressBriefingsCorpus_logo_2.png)
-
+</p>
 
 # COVID19PressBriefings
 
