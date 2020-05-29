@@ -1,4 +1,4 @@
-![context](https://github.com/kakiac/COVID19PressBriefings/blob/master/COVID19-PressBriefingsCorpus_logo.png)
+![context](https://github.com/kakiac/COVID19PressBriefings/blob/master/COVID19-PressBriefingsCorpus_logo_2.png)
 
 
 # COVID19PressBriefings
